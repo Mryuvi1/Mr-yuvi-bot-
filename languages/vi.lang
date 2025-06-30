@@ -1,36 +1,36 @@
-# If you want to move down the line, please use \n. e.g: Priyanshu\nPriyansh.
+# If you want to move down the line, please use \n. e.g: Yuvi\nYuvi.
 # After changed, you have to restart the bot to use.
 # Put the # character at the beginning of each sentence if you don't want the code to run those lines. 
 # Thanks to https://www.facebook.com/duong.than.net for translate to English!
 
-# Priyansh.js 
+# Yuvi.js 
 
-priyansh.errorFormat=Malformed module!
-priyansh.nameExist=Module's name is similar to another module!
-priyansh.notFoundLanguage=Module %1 don't support your language
-priyansh.notFoundPackage=Can't find package %1 support for module %2, installing...
-priyansh.cantInstallPackage=Can't install package %1 for module %2, error: %3
-priyansh.loadedPackage=Installed whole package successfully for module %1
-priyansh.loadedConfig=Installed config successfully for module %1
-priyansh.cantLoadConfig=Can't install config of module %1, error: %2
-priyansh.cantOnload=Can't launch setup of module %1, error: %1
-priyansh.successLoadModule=Successfully installed module %1
-priyansh.failLoadModule=Can't install module %1, error: %2
-priyansh.finishLoadModule=Installed %1 module commands and %2 module events successfully 
-priyansh.foundPathAppstate=Found file appstate
-priyansh.notFoundPathAppstate=Can't find file appstate
-priyansh.checkListGban=Cheking global ban list...
-priyansh.banDevice=Your device have been banned from miraiproject, please contact to facebook https://fb.me/catalizcs to know more information or asking for unban key, if you already have unban key, please fill it below.
-priyansh.keyNotSameFormat=Wrong format, code must contain 6 number.
-priyansh.codeInputExpired=Your code is wrong or out of date.
-priyansh.unbanDeviceSuccess=Your device are unban now, please restart to use.
-priyansh.userBanned=You had been banned from miraiproject when %1 with reason: %2. Please contact to facebook https://fb.me/catalizCS to have more information!
-priyansh.finishCheckListGban=Checked global ban list
-priyansh.handleListenError=handleListene has occurred some unexpected errorr, error : %1
-priyansh.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
-priyansh.refreshListen=Refreshed handleListener...
-priyansh.successConnectDatabase=Connected to database successfully!
-priyansh.failConnectDatabase=Failed to connect to database, error: %1
+Yuvi.errorFormat=Malformed module!
+Yuvi.nameExist=Module's name is similar to another module!
+Yuvi.notFoundLanguage=Module %1 don't support your language
+Yuvi.notFoundPackage=Can't find package %1 support for module %2, installing...
+Yuvi.cantInstallPackage=Can't install package %1 for module %2, error: %3
+Yuvi.loadedPackage=Installed whole package successfully for module %1
+Yuvi.loadedConfig=Installed config successfully for module %1
+Yuvi.cantLoadConfig=Can't install config of module %1, error: %2
+Yuvi.cantOnload=Can't launch setup of module %1, error: %1
+Yuvi.successLoadModule=Successfully installed module %1
+Yuvi.failLoadModule=Can't install module %1, error: %2
+Yuvi.finishLoadModule=Installed %1 module commands and %2 module events successfully 
+Yuvi.foundPathAppstate=Found file appstate
+Yuvi.notFoundPathAppstate=Can't find file appstate
+Yuvi.checkListGban=Cheking global ban list...
+Yuvi.banDevice=Your device have been banned from miraiproject, please contact to facebook https://fb.me/catalizcs to know more information or asking for unban key, if you already have unban key, please fill it below.
+Yuvi.keyNotSameFormat=Wrong format, code must contain 6 number.
+Yuvi.codeInputExpired=Your code is wrong or out of date.
+Yuvi.unbanDeviceSuccess=Your device are unban now, please restart to use.
+Yuvi.userBanned=You had been banned from miraiproject when %1 with reason: %2. Please contact to facebook https://fb.me/catalizCS to have more information!
+Yuvi.finishCheckListGban=Checked global ban list
+Yuvi.handleListenError=handleListene has occurred some unexpected errorr, error : %1
+Yuvi.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
+Yuvi.refreshListen=Refreshed handleListener...
+Yuvi.successConnectDatabase=Connected to database successfully!
+Yuvi.failConnectDatabase=Failed to connect to database, error: %1
 
 # includes/listen.js
 
