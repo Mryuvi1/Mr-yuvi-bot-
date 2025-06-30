@@ -29,9 +29,9 @@
   "author": "𝗟𝗘𝗚𝗘𝗡𝗗 𝗬𝗨𝗩𝗜𝗜",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+      "url": "https://github.com/Mryuvi1"
   },
-  "homepage": "https://github.com/Priyansh-11/Priyansh-bot/issues",
+  "homepage": "https://github.com/Mryuvi1",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
